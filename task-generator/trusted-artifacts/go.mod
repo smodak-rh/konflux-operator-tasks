@@ -9,7 +9,7 @@ require (
 	github.com/zregvart/tkn-fmt v0.0.0-20240614122620-a2995427266c
 	k8s.io/api v0.36.0
 	k8s.io/apimachinery v0.36.0
-	mvdan.cc/sh/v3 v3.12.0
+	mvdan.cc/sh/v3 v3.13.1
 	sigs.k8s.io/kustomize/api v0.21.1
 	sigs.k8s.io/kustomize/kyaml v0.21.1
 	sigs.k8s.io/yaml v1.6.0
@@ -84,7 +84,7 @@ require (
 	golang.org/x/oauth2 v0.36.0 // indirect
 	golang.org/x/sync v0.21.0 // indirect
 	golang.org/x/sys v0.42.0 // indirect
-	golang.org/x/term v0.40.0 // indirect
+	golang.org/x/term v0.41.0 // indirect
 	golang.org/x/text v0.38.0 // indirect
 	golang.org/x/time v0.14.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.5.0 // indirect
